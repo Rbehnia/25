@@ -1,0 +1,38 @@
+Hi everyone, welcome to the 3rd ICDM Workshop on Machine Learning for Cybersecurity.
+This year we are delighted to have wonderful keynote speakers who kindly accepted to share their high-ipact research with us. 
+I am very grateful to all of them fro accepting our invite. Special thanks to our keynote speakers from US who kindly accepted our invite despite the timezone difference.
+
+1- 
+Our first keynote speaker is Dr. Cristina Nita-Rotaru from North-Eastern University. 
+She is one of the most influential pioneers in enhancing the security and resiliency of distributed systems.
+I was very lucky to get to know her fantastic work through our common friend Battista. 
+She has a very successful and prolific security lab at North-Eastern and I recommend visiting her official website, which has a very rich content.
+She has many high-impact works in top venues journals many of them at the intersection of ML and cybersecurity with provable guarantees.
+Today, we are very fortunate and excited to hear about one of the latest works from her group on the security of Federated learning (both centeralized and peer-to-peer).
+Without Further ado, I bring you Dr. Cristina Nita-Rotaru.
+
+2-
+Next we are fortunate to have Dr. Giti Javidi from University of South Florida. 
+In addition to her cybersecurity research, Giti is one of the pioneers in cybersecurity education.
+Through NSF Scolarship for Service grant, she has successfully prepared neumorous undergrad and grad students for cybersecurity workforce both in goverment and indurstry positons.
+Today, we are lucky to be able to listen to her talk on the future of cybersecurity education shaped by AI. Without a further ado, I bring you Dr. Giti Javidi.
+
+3- 
+Our next keynote is Dr. Dima Rabadi from Penn State.
+she is a very prolific scholar who has produced very interesting work at the intersection of adversarial ML and malware detection.
+One aspect that makes Dima's work unique is her experience with industry and working with known research centers.
+I believe today she is going to have an interesting talk about developing effective malware defense in cybersecurity.
+So without further ado, I bring you Dr. Dima Rabadi.
+
+4-
+Next we are fortunate to have a very successful cybersecurity scholar, Dr. Yulei Sui from the University of New South Wales.
+He has done excellent work at the intersection of ML and cybersecurity specially in automated vulenerability detection from code.
+Today he has kindly accepted to talk about one of his latest works on bug detection from code using a novel contrastive learning method. 
+We are excited to listen to the talk, so Yulei, thanks again and the stage is yours.
+
+
+5-
+Next we have our last but not least keynote speaker, Dr. Lin Yun from Shanghai Jiao Tong University.
+His interesting work has appeared in both security conferences such as USENIX and top-tier ML conferences such as NeurIPS.
+Today we are fortunate to have his talk on openning the black-box of deep learning training procedure via an interesting novel visualization methods that can provide security insights.
+Dear Lin, we are excited for your talk and the stage is yours when you are ready.
